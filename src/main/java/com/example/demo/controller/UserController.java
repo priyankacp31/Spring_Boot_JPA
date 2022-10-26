@@ -11,6 +11,11 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.demo.model.UserRecord;
 import com.example.demo.service.UserService;
 
+/**
+ * 
+ * @author priyanka.palkar
+ *
+ */
 @RestController
 public class UserController {
 
