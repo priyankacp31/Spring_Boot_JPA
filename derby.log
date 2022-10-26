@@ -1,0 +1,32 @@
+----------------------------------------------------------------
+Thu Sep 29 13:38:26 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0183-884a-2955-000002820460 
+on database directory memory:D:\PRIYANKA\Demos\Spring Boot\Spring_Boot_Data_JPA\eca95b87-310f-44fc-ab5c-89417168ee0e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/priyanka.palkar/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=D:\PRIYANKA\Demos\Spring Boot\Spring_Boot_Data_JPA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Sep 29 13:39:26 IST 2022:
+Shutting down instance a816c00e-0183-884a-2955-000002820460 on database directory memory:D:\PRIYANKA\Demos\Spring Boot\Spring_Boot_Data_JPA\eca95b87-310f-44fc-ab5c-89417168ee0e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Thu Sep 29 13:39:28 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 30fbc0bb-0183-884a-2955-000002820460 
+on database directory memory:D:\PRIYANKA\Demos\Spring Boot\Spring_Boot_Data_JPA\e8c01d57-357c-4987-96c5-9d6163c947e8 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/priyanka.palkar/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=D:\PRIYANKA\Demos\Spring Boot\Spring_Boot_Data_JPA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Sep 29 18:22:50 IST 2022:
+Shutting down instance 30fbc0bb-0183-884a-2955-000002820460 on database directory memory:D:\PRIYANKA\Demos\Spring Boot\Spring_Boot_Data_JPA\e8c01d57-357c-4987-96c5-9d6163c947e8 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
